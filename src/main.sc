@@ -16,6 +16,8 @@ theme: /
         EndSession: 
             actions = {}
         a: Чат завершен.
+        buttons:
+            "Я передумал, давай еще раз. " -> /Start
 
     state: Nomatch
         event!: noMatch
