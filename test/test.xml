@@ -3,7 +3,10 @@
         <q>/start</q>
         <a>Добрый день! Я - последний выдох господина ПЖ.</a>
         <q>Хочу малиновые штаны</q>
-        <a state= "/KeTse"/>
+        <a state="/KeTse"/>
+        <q>Да</q>
+        <a state="/Success"/>
+        <q>Да</q>
     </test-case>
     
 </test>    
