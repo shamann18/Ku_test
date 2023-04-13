@@ -6,7 +6,7 @@
         <a state="/КЦ"/>
         <q>Да</q>
         <a state="/Получи штаны"/>
-        <a>Хотите голубые штаны?</a>
+        <a state="/Success"/>
         <q>Нет</q>
         <a state="/GoodLad"/>
         <q>Да</q>
