@@ -2,8 +2,7 @@
     <test-case>
         <q>/start</q>
         <a state="/Start"/>
-        <a state="/Start">Добрый день! Я - последний выдох господина ПЖ.>
-    </a>
+        <a state="/Start">Добрый день! Я - последний выдох господина ПЖ.</a>
     </test-case>
     
 </test>    
