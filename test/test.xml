@@ -14,7 +14,7 @@
         <a state="/LastBreathPZIsInDanger"/>
         <a state="/Tranclucated"/>
         <a state="/TryAgain"/>
-        <q>Фигушки</q>
+        <q>Фигушки.</q>
         <a state="/Bye"/>
     </test-case>
     
