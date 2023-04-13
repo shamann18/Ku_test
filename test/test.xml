@@ -16,6 +16,7 @@
         <a state="/TryAgain"/>
         <q>Фигушки.</q>
         <a state="/Bye"/>
+        <a>Чат завершен.</a>
     </test-case>
     
 </test>    
