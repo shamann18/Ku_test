@@ -11,6 +11,8 @@
         <a state="/GoodLad"/>
         <a state="/Success"/>
         <q>Да</q>
+        <a state="/LastBreathPZIsInDanger"/>
+        <a state="/Tranclucated"/>
     </test-case>
     
 </test>    
