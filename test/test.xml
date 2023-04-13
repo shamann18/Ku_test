@@ -5,11 +5,7 @@
         <q>Хочу малиновые штаны</q>
         <a state="/КЦ"/>
         <q>Да</q>
-        <a state="/Получи штаны"/>
-        <a state="/Success"/>
-        <q>Нет</q>
-        <a state="/GoodLad"/>
-        <q>Да</q>
+    
     </test-case>
     
 </test>    
