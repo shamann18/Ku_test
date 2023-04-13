@@ -15,7 +15,7 @@
         <a state="/Tranclucated"/>
         <a state="/TryAgain"/>
         <q>Фигушки</q>
-         <a state="/Bye"/>
+        <a state="/Bye"/>
     </test-case>
     
 </test>    
