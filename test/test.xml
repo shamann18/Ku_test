@@ -9,6 +9,7 @@
         <a state="/Success"/>
         <q>Нет</q>
         <a state="/GoodLad"/>
+        <a state="/Success"/>
         <q>Да</q>
     </test-case>
     
