@@ -7,7 +7,7 @@
         <q>Да</q>
         <a state="/Получи штаны"/>
         <a state="/Success"/>
-        <a>Нет</a>
+        <q>Нет</q>
         <a state="/GoodLad"/>
         <q>Да</q>
     </test-case>
