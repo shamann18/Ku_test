@@ -1,11 +1,15 @@
 <test>
-    <test-case id = "test case KeTze">
+    <test-case>
         <q>/start</q>
         <a>Добрый день! Я - последний выдох господина ПЖ.</a>
         <q>Хочу малиновые штаны</q>
         <a state="/КЦ"/>
         <q>Да</q>
-    
+        <a state="/Получи штаны"/>
+        <a state="/Success"/>
+        <q>Нет</q>
+        <a state="/GoodLad"/>
+        <q>Да</q>
     </test-case>
     
 </test>    
