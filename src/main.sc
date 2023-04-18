@@ -54,7 +54,7 @@ theme: /
         event: noMatch || toState = "/Nomatch"
 
     state: LastBreathPZIsInDanger
-        a: Кю! Вы посягнули на последний выдох господина ПЖ.
+        a: Кю! Вы посягнули на последний выдох господина ПЖ!
         go!: /Tranclucated
 
     state: GoodLad
